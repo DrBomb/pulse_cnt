@@ -1,0 +1,16 @@
+author: DrBomb
+type: lib
+description: Pulse_Cnt Library
+version: 0.1
+
+sources:
+  - src
+  
+includes:
+  - include
+
+tags:
+  - c
+  - js
+
+manifest_version: 2017-05-18
