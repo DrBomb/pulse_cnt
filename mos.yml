@@ -9,6 +9,8 @@ sources:
 includes:
   - include
 
+platforms: [ esp32 ]
+
 tags:
   - c
   - js
